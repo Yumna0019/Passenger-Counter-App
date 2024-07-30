@@ -30,10 +30,6 @@ Follow these instructions to get the project up and running on your local machin
    ```
 3. **Open `index.html` in your favorite web browser.**
 
-## 🌐 Live Demo
-
-Check out the live demo of the Passenger Counter App [here](https://passenger-counter-app-x-js.netlify.app/).
-
 ## 📋 Usage
 
 1. **Start Counting**: Click the "INCREMENT" button to increase the passenger count.
