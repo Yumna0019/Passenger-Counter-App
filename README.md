@@ -9,7 +9,11 @@ Welcome to the **Passenger Counter App** project! Keep track of the number of pa
 - **🖥️ Clean Interface**: User-friendly and intuitive design.
 - **💻 Pure JavaScript**: Built with vanilla JavaScript, HTML, and CSS.
 - **🚀 Lightweight**: Fast and responsive on any device.
-  
+
+## 🌐 Live Demo
+
+Check out the live demo of the Passenger Counter App [here](https://passenger-counter-app-x-js.netlify.app/).
+
 ## 🚀 Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
